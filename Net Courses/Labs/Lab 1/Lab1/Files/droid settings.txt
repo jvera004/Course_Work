@@ -1,0 +1,23 @@
+Name: metropcs
+APN: internet
+proxy: wap.metropcs.net:3128
+port: 3128
+username: 10digit#@mymetropcs.com
+password: your 6digit mls number
+server: wap.metropcs.net
+mmsc: http://mms.metropcs.net:3128/mmsc
+mms proxy: wap.metropcs.net
+mms port: 3128
+mmc: 310
+mnc: 004
+auth type: not set
+apn type: not set
+
+
+
+
+
+try using ANY CUT from the market and create your own proxy setting
+
+"1) Open Any Cut, click New shortcut>Activity> and scroll down to Proxy Settings, click OK and there should be a Proxy Settings icon on your home screen. Open It.
+2) For Hostname enter proxy.metropcs.net and for Port enter 3128. If there is a checkbox that says Use proxy only on wifi uncheck it. click Save and restart the phone for safe measures."(credit goes to ji0n)

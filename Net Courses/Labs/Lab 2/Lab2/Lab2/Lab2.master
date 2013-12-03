@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Lab2.master.cs" Inherits="Lab2_Lab2" MasterPageFile="~/Site.master" %>
+<asp:Content ContentPlaceHolderID="MainContent" runat="server">
+<div style="text-align:right">
+Employees:
+<a href = "All.aspx"> Show ALL </a>|
+<a href = "Department.aspx"> By Department </a>|
+<a href = "Manage.aspx"> Manage </a>|
+<a href = "Contact.aspx"> Contact </a>
+</div>
+    <div>
+        <asp:ContentPlaceHolder id="Lab2Content" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>
